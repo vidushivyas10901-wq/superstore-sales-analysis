@@ -1,3 +1,4 @@
+<img width="1487" height="919" alt="Screenshot 2026-03-07 193103" src="https://github.com/user-attachments/assets/9007cdec-06ad-4bfd-87fe-496808e78399" />
 # 📊 Superstore Sales & Profit Analysis
 
 ## 📌 Project Overview
@@ -75,5 +76,5 @@ This project demonstrates end-to-end data analysis skills — from raw data clea
 ---
 
 ⭐ If you found this project useful, feel free to star the repository!
-<img width="1920" height="1080" alt="SUPERSTORE_SALES ANALYSIS REPORT" src="https://github.com/user-attachments/assets/c9c34736-27a7-4937-bb75-04f80d4ae3d2" />
+
 <img width="1920" height="1080" alt="SUPERSTORE_SALES ANALYSIS REPORT (1)" src="https://github.com/user-attachments/assets/5a82ebed-fbd5-449f-9341-c77eaf15e859" />
