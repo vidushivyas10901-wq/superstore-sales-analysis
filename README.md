@@ -1,13 +1,12 @@
-<img width="1487" height="919" alt="Screenshot 2026-03-07 193103" src="https://github.com/user-attachments/assets/9007cdec-06ad-4bfd-87fe-496808e78399" />
-# 📊 Superstore Sales & Profit Analysis
+# Superstore Sales & Profit Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes 5000+ retail transactions from a Superstore dataset to uncover sales trends, profitability insights, and loss-making areas. The analysis was performed using **Python (Pandas, Matplotlib, Seaborn)** and **Power BI** to build an interactive business dashboard.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Identify top-performing product categories
 * Detect loss-making products and regions
@@ -17,7 +16,7 @@ This project analyzes 5000+ retail transactions from a Superstore dataset to unc
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * Python (Pandas, NumPy)
 * Matplotlib & Seaborn
@@ -26,7 +25,7 @@ This project analyzes 5000+ retail transactions from a Superstore dataset to unc
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 * 5000+ transactional records
 * Includes Sales, Profit, Discount, Category, Region, Order Date
@@ -34,7 +33,7 @@ This project analyzes 5000+ retail transactions from a Superstore dataset to unc
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 * Furniture category shows high sales but lower profit margins
 * Several sub-categories generate consistent losses
@@ -43,7 +42,7 @@ This project analyzes 5000+ retail transactions from a Superstore dataset to unc
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 * Monthly Profit Trend
 * Loss-Making Orders by Category
@@ -53,14 +52,15 @@ This project analyzes 5000+ retail transactions from a Superstore dataset to unc
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
-<img width="1920" height="1080" alt="SUPERSTORE_SALES ANALYSIS REPORT" src="https://github.com/user-attachments/assets/4498010c-fd25-49e4-9bf7-3b7bbf3eff2a" />
+<img width="1487" height="919" alt="Screenshot 2026-03-07 193103" src="https://github.com/user-attachments/assets/9007cdec-06ad-4bfd-87fe-496808e78399" />
+
 
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 * Review pricing strategy for loss-making products
 * Optimize discount structures
@@ -69,12 +69,12 @@ This project analyzes 5000+ retail transactions from a Superstore dataset to unc
 
 ---
 
-## 🚀 Project Outcome
+##  Project Outcome
 
 This project demonstrates end-to-end data analysis skills — from raw data cleaning to business insight generation and dashboard storytelling.
 
 ---
 
-⭐ If you found this project useful, feel free to star the repository!
+If you found this project useful, feel free to star the repository!
 
-<img width="1920" height="1080" alt="SUPERSTORE_SALES ANALYSIS REPORT (1)" src="https://github.com/user-attachments/assets/5a82ebed-fbd5-449f-9341-c77eaf15e859" />
+
